@@ -1,3 +1,16 @@
 <resources>
+
+    <string name="sample_url_title">Webページの表示</string>
+    <string name="sample_map_title">地図の表示</string>
+    <string name="sample_call_title">通話の開始</string>
+    <string name="sample_dial_title">電話の表示</string>
+    <string name="sample_setup_title">設定画面の表示</string>
+    <string name="sample_active_helloworld">HelloWorldの起動</string>
+
+
+
+    <string name="sample_url">http://www.google.com/</string>
+    <string name="sample_geo">geo:0,0?q=Tokyo</string>
+    <string name="sample_tel_number">tel:117</string>
     <string name="app_name">SampleDownloadTask</string>
 </resources>

@@ -18,7 +18,7 @@ import java.util.ArrayList;
 
 public class TopListActivity extends Activity {
 
-//    private static final String[] items = {"1つ目","2つ目","3つ目"};
+//    private static final Constant[] items = {"1つ目","2つ目","3つ目"};
     private ArrayList mList = null;
 
 
